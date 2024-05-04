@@ -10,7 +10,7 @@
 
 - 💬 Ask me about: **Anything Python Related**
 
-- 📫 Reach me on: **lukasinbox.com**
+- 📫 Reach me on: **lukasinbox.com or LinkedIn: Lukas Senkus**
 
 - ⚡ Fun fact **I love playing video games, especially MMOs, and I do programming to make life easier for myself and others!**
 

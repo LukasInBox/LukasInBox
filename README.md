@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: **Python Libraries**
 
-- 💬 Ask me about: **Anything Python Related**
+- 💬 Ask me about: **Anything Programming Related**
 
 - 📫 Reach me on: **lukasinbox.com**
 
